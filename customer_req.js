@@ -184,3 +184,4 @@ frappe.ui.form.on('Customer Request Form', {
     //         frm.toggle_display('gst_details_section', false);
     //     }
     // },
+    //code
